@@ -2,7 +2,7 @@
 ### 程序集
 我上传了过去做过一些的程序，其中大多是我为讲课开发的，具体内容如下：
 #### 机器学习洞察系列（1~4）
-<kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/ml_tasks.jpg"></kbd><br/>
+<kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/ml_tasks.jpg"></kbd><br/>
 
 - 机器学习的数学基础: [Github](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1)
   - 优化 [App](http://39.98.239.104:8502/)
