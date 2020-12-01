@@ -17,7 +17,7 @@
 - 机器学习应用：[Github](https://github.com/TaiChiTiger/the-application-of-machine-learning---Machine-Learning-Insight-4)
   - 回归 [App](http://39.98.239.104:8507/)
   - 分类 [App](http://39.98.239.104:8508/）
-                    )
+
 #### 其它
 - 本科毕业设计：使用C#和ArcGIS Engine组件开发一个桌面版的GIS系统。[Demo演示](https://v.qq.com/x/page/h0615ydvs8k.html)
 - GIS工具箱：包括常用的GIS小工具，如坐标转换和距离计算等，正在加入新的工具。[App](http://39.98.239.104:8517/)
@@ -36,4 +36,4 @@
 
 ### 联系
 - Github：https://github.com/TaiChiTiger/
-- st.markdown("Email: 2777252617@qq.com
+- Email: 2777252617@qq.com
