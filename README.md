@@ -16,7 +16,7 @@
   - 线性分类器 [APP](http://39.98.239.104:8503/)
 - 机器学习应用：[Github](https://github.com/TaiChiTiger/the-application-of-machine-learning---Machine-Learning-Insight-4)
   - 回归 [App](http://39.98.239.104:8507/)
-  - 分类 [App](http://39.98.239.104:8508/）
+  - 分类 [App](http://39.98.239.104:8508/)
 
 #### 其它
 - 本科毕业设计：使用C#和ArcGIS Engine组件开发一个桌面版的GIS系统。[Demo演示](https://v.qq.com/x/page/h0615ydvs8k.html)
