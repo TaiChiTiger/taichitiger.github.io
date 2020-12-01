@@ -28,12 +28,12 @@
   - 基于回归 [App](http://39.98.239.104:8518/)
   - 基于分类 [App](http://39.98.239.104:8519/)
 - 深度学习:
-  - 用ResNet, GoogLeNet和SqueezeNet等模型，对图像进行分类。[App](http://39.98.239.104:8511)
-  - 用Faster R-CNN, 和MobileNet模型，对图像进行目标检测。[App](http://39.98.239.104:8512)
-  - 基于CNN识别性别和年龄。[App](http://39.98.239.104:8513)
-  - 卷积神经网络架构。 [Github](https://github.com/TaiChiTiger/cnn-architectures)
+  - 用ResNet, GoogLeNet和SqueezeNet等模型，对图像进行分类 [App](http://39.98.239.104:8511)
+  - 用Faster R-CNN, 和MobileNet模型，对图像进行目标检测 [App](http://39.98.239.104:8512)
+  - 基于CNN识别性别和年龄 [App](http://39.98.239.104:8513)
+  - 卷积神经网络架构 [Github](https://github.com/TaiChiTiger/cnn-architectures)
 
 
 ### 联系
-- Github：https://github.com/TaiChiTiger/
+- Github: (TaiChiTiger)[https://github.com/TaiChiTiger/]
 - Email: 2777252617@qq.com
