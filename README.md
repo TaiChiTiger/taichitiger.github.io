@@ -35,6 +35,5 @@
 
 
 ### 联系
-- 个人主页: http://39.98.239.104:8501/
 - Github: [TaiChiTiger](https://github.com/TaiChiTiger/)
 - Email: 2777252617@qq.com
