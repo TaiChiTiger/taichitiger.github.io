@@ -7,8 +7,8 @@
 - 机器学习的数学基础: [Github](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1)
   - 优化 [App](http://39.98.239.104:8502/)
 - 机器学习游乐场: 
-  - [App](http://39.98.239.104:8504/) [Github](https://github.com/TaiChiTiger/machine-learning-playground---Machine-Learning-Insight-2)
-  - 分类器(+自动调优) [App](http://39.98.239.104:8505/) 
+  - [App](http://39.98.239.104:8505/) [Github](https://github.com/TaiChiTiger/machine-learning-playground---Machine-Learning-Insight-2)
+  - 分类器(+自动调优) [App](http://39.98.239.104:8506/) 
 - 从头编写机器学习模型: [Github](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3)
   - 线性分类器 [APP](http://39.98.239.104:8503/)
 - 机器学习应用：[Github](https://github.com/TaiChiTiger/the-application-of-machine-learning---Machine-Learning-Insight-4)
