@@ -1,18 +1,17 @@
 ## 叶贞明
 ### 程序集
-我上传了过去做过一些的程序，其中大多是我为讲课开发的，具体内容如下：
 #### 机器学习洞察系列（1~4）
 <kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/ml_tasks.jpg"></kbd><br/>
 
 1. 机器学习的数学基础 [Github](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1)
     - 优化 [App](http://39.98.239.104:8502/)
 2. 机器学习游乐场 [App](http://39.98.239.104:8503/) [Github](https://github.com/TaiChiTiger/machine-learning-playground---Machine-Learning-Insight-2)
-  - 分类(+自动调优) [App](http://39.98.239.104:8504/)
+    - 分类(+自动调优) [App](http://39.98.239.104:8504/)
 3. 从头编写机器学习模型 [Github](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3)
-  - 线性分类器 [APP](http://39.98.239.104:8505/)
+    - 线性分类器 [APP](http://39.98.239.104:8505/)
 4. 机器学习应用 [Github](https://github.com/TaiChiTiger/the-application-of-machine-learning---Machine-Learning-Insight-4)
-  - 回归 [App](http://39.98.239.104:8506/)
-  - 分类 [App](http://39.98.239.104:8507/)
+    - 回归 [App](http://39.98.239.104:8506/)
+    - 分类 [App](http://39.98.239.104:8507/)
 
 #### 其它
 - 比较统计、贝叶斯学习和机器学习
