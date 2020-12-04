@@ -5,7 +5,7 @@
 <kbd><img title="分类" src="https://github.com/TaiChiTiger/machine-learning-playground/blob/master/images/ml_tasks.jpg"></kbd><br/>
 
 1. 机器学习的数学基础 [Github](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1)
-  - 优化 [App](http://39.98.239.104:8502/)
+    - 优化 [App](http://39.98.239.104:8502/)
 2. 机器学习游乐场 [App](http://39.98.239.104:8503/) [Github](https://github.com/TaiChiTiger/machine-learning-playground---Machine-Learning-Insight-2)
   - 分类(+自动调优) [App](http://39.98.239.104:8504/)
 3. 从头编写机器学习模型 [Github](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3)
