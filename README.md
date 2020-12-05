@@ -5,6 +5,7 @@
 
 1. 机器学习的数学基础 [Github](https://github.com/TaiChiTiger/math-for-machine-learning---Machine-Learning-Insight-1)
     - 优化 [App](http://39.98.239.104:8502/)
+    - 比较统计、贝叶斯学习和机器学习：基于回归 [App](http://39.98.239.104:8511/) 基于分类 [App](http://39.98.239.104:8512/)
 2. 机器学习游乐场 [App](http://39.98.239.104:8503/) [Github](https://github.com/TaiChiTiger/machine-learning-playground---Machine-Learning-Insight-2)
     - 分类(+自动调优) [App](http://39.98.239.104:8504/)
 3. 从头编写机器学习模型 [Github](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3)
@@ -14,9 +15,6 @@
     - 分类 [App](http://39.98.239.104:8507/)
 
 #### 其它
-- 比较统计、贝叶斯学习和机器学习
-  - 基于回归 [App](http://39.98.239.104:8511/)
-  - 基于分类 [App](http://39.98.239.104:8512/)
 - 深度学习
   - 计算机视觉 [App](http://39.98.239.104:8508)
   - 卷积神经网络架构 [Github](https://github.com/TaiChiTiger/cnn-architectures)
