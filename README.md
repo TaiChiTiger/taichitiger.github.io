@@ -9,7 +9,7 @@
 2. 机器学习游乐场 [App](http://39.98.239.104:8503/) [Github](https://github.com/TaiChiTiger/machine-learning-playground---Machine-Learning-Insight-2)
     - 分类(+自动调优) [App](http://39.98.239.104:8504/)
 3. 从头编写机器学习模型 [Github](https://github.com/TaiChiTiger/machine-learning-from-scratch---Machine-Learning-Insight-3)
-    - 线性分类器 [APP](http://39.98.239.104:8505/)
+    - 线性分类器 [App](http://39.98.239.104:8505/)
 4. 机器学习应用 [Github](https://github.com/TaiChiTiger/the-application-of-machine-learning---Machine-Learning-Insight-4)
     - 回归 [App](http://39.98.239.104:8506/)
     - 分类 [App](http://39.98.239.104:8507/)
