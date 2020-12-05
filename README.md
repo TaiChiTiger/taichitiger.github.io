@@ -15,13 +15,13 @@
 
 #### 其它
 - 比较统计、贝叶斯学习和机器学习
-  - 基于回归 [App](http://39.98.239.104:8509/)
-  - 基于分类 [App](http://39.98.239.104:8510/)
+  - 基于回归 [App](http://39.98.239.104:8511/)
+  - 基于分类 [App](http://39.98.239.104:8512/)
 - 深度学习
   - 计算机视觉 [App](http://39.98.239.104:8508)
   - 卷积神经网络架构 [Github](https://github.com/TaiChiTiger/cnn-architectures)
 - 全国新冠肺炎累计确诊病例分布地图，数据截止于5月15日，暂未更新 [App](http://39.98.239.104/)
-- GIS工具箱：包括常用的GIS小工具，如坐标转换和距离计算等，正在加入新的工具 [App](http://39.98.239.104:8508/)
+- GIS工具箱：包括常用的GIS小工具，如坐标转换和距离计算等，正在加入新的工具 [App](http://39.98.239.104:8513/)
 - 路径算法：包括三种最短路径算法和驾驶距离算法 [Github](https://github.com/TaiChiTiger/routing/tree/master)
 - 本科毕业设计：使用C#和ArcGIS Engine组件开发一个桌面版的GIS系统 [Demo演示](https://v.qq.com/x/page/h0615ydvs8k.html)
 
