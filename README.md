@@ -15,6 +15,7 @@
     - 分类 [App](http://39.98.239.104:8507/)
 
 #### 其它
+- 在线学习 [App](http://39.98.239.104:8513)
 - 深度学习
   - 计算机视觉 [App](http://39.98.239.104:8508)
   - 卷积神经网络架构 [Github](https://github.com/TaiChiTiger/cnn-architectures)
