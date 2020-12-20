@@ -13,10 +13,13 @@
 4. 机器学习应用 [Github](https://github.com/TaiChiTiger/the-application-of-machine-learning---Machine-Learning-Insight-4)
     - 回归 [App](http://39.98.239.104:8506/)
     - 分类 [App](http://39.98.239.104:8507/)
+#### 游乐场系列 [入口](http://39.98.239.104:8501/)
+    - 机器学习 [App](http://39.98.239.104:8503/)
+    - 在线学习 [App](http://39.98.239.104:8513)
+    - 时间序列
+    - 卡尔曼滤波 [App](http://39.98.239.104:8514)
 
 #### 其它
-- 在线学习 [App](http://39.98.239.104:8513)
-- 卡尔曼滤波 [App](http://39.98.239.104:8514)
 - 深度学习
   - 计算机视觉 [App](http://39.98.239.104:8508)
   - 卷积神经网络架构 [Github](https://github.com/TaiChiTiger/cnn-architectures)
